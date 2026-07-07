@@ -1,0 +1,17 @@
+{
+  "name": "Моё меню MSX",
+  "items": [
+    {
+      "title": "IPTV 1cent",
+      "action": "link:http://ott-play.com"
+    },
+    {
+      "title": "LIFT kino",
+      "action": "link:http://lift3.ws"
+    },
+    {
+      "title": "Сортировать/Настройки MSX",
+      "action": "settings"
+    }
+  ]
+}
